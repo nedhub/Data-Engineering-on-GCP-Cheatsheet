@@ -18,3 +18,4 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 Feel free to suggest comments, updates, and potential improvements!
 
 **Maverick Lin**: Reach out to me via [Quora](https://www.quora.com/profile/Maverick-Lin) or through my [website](http://mavericklin.com/). Cheers.
+
